@@ -1,0 +1,12 @@
+Total Sequence Length (bp):	716034
+Number of Sequences:	374
+Longest Sequences (bp):	9540
+N50 (bp):	1977
+Gap Ratio (%):	0.000000
+GCcontent (%):	30.3
+Number of CDSs:	397
+Average Protein Length:	240.7
+Coding Ratio (%):	40.0
+Number of rRNAs:	1
+Number of tRNAs:	13
+Number of CRISPRs:	0
