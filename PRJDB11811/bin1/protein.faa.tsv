@@ -1,0 +1,123 @@
+LOCUS_3110	6c4e860ed0ba79961d37ebfbc717671d	328	CDD	cd00009	AAA	31	185	8.3618E-9	T	07-09-2022	-	-
+LOCUS_1760	cd0ed8dfedca787d9f589caf8949bf35	94	Coils	Coil	Coil	33	64	-	T	07-09-2022	-	-
+LOCUS_0530	c16318f604bb1d7ee739611c14af313c	140	MobiDBLite	mobidb-lite	consensus disorder prediction	1	36	-	T	07-09-2022	-	-
+LOCUS_2830	e5c6ad27dad801a61d8c5864b954d9b2	220	MobiDBLite	mobidb-lite	consensus disorder prediction	9	24	-	T	07-09-2022	-	-
+LOCUS_2830	e5c6ad27dad801a61d8c5864b954d9b2	220	Coils	Coil	Coil	15	69	-	T	07-09-2022	-	-
+LOCUS_2830	e5c6ad27dad801a61d8c5864b954d9b2	220	MobiDBLite	mobidb-lite	consensus disorder prediction	1	24	-	T	07-09-2022	-	-
+LOCUS_1050	d9e5029afff36b08cb8a9c3f7ea97b72	415	Coils	Coil	Coil	23	57	-	T	07-09-2022	-	-
+LOCUS_1050	d9e5029afff36b08cb8a9c3f7ea97b72	415	Coils	Coil	Coil	318	345	-	T	07-09-2022	-	-
+LOCUS_1050	d9e5029afff36b08cb8a9c3f7ea97b72	415	Coils	Coil	Coil	377	404	-	T	07-09-2022	-	-
+LOCUS_1050	d9e5029afff36b08cb8a9c3f7ea97b72	415	Coils	Coil	Coil	183	210	-	T	07-09-2022	-	-
+LOCUS_4240	e8b3fd6b2964351a511ecc8361cd7d69	151	Coils	Coil	Coil	6	26	-	T	07-09-2022	-	-
+LOCUS_2360	0748fd865a1f57e84e88d334fcdbdeaf	201	Coils	Coil	Coil	78	98	-	T	07-09-2022	-	-
+LOCUS_4760	e7b47cfd5567f492149fe6c23be6643c	242	Coils	Coil	Coil	121	141	-	T	07-09-2022	-	-
+LOCUS_1820	c0b092be993c10efd2df4eace75a1aa1	81	Coils	Coil	Coil	9	29	-	T	07-09-2022	-	-
+LOCUS_0210	e18cb7b88a3c93874784e9bc02b49c38	302	CDD	cd00958	DhnA	38	301	1.0216E-74	T	07-09-2022	IPR041720	Aldolase FbaB-like, archaeal-type
+LOCUS_0210	e18cb7b88a3c93874784e9bc02b49c38	302	SMART	SM01133	DeoC_2	38	284	1.2E-30	T	07-09-2022	IPR002915	DeoC/FbaB/LacD aldolase
+LOCUS_3450	756f0f0f1314d02700396ff55ea8c6a1	123	MobiDBLite	mobidb-lite	consensus disorder prediction	101	123	-	T	07-09-2022	-	-
+LOCUS_1810	cef885aa3baf5278291216d2a1456a48	384	Coils	Coil	Coil	69	89	-	T	07-09-2022	-	-
+LOCUS_3250	0dfe9f13a212b0f3ab17bb7994e42586	470	Coils	Coil	Coil	441	468	-	T	07-09-2022	-	-
+LOCUS_3250	0dfe9f13a212b0f3ab17bb7994e42586	470	SMART	SM00382	AAA_5	39	162	5.0E-6	T	07-09-2022	IPR003593	AAA+ ATPase domain
+LOCUS_3250	0dfe9f13a212b0f3ab17bb7994e42586	470	MobiDBLite	mobidb-lite	consensus disorder prediction	449	470	-	T	07-09-2022	-	-
+LOCUS_3250	0dfe9f13a212b0f3ab17bb7994e42586	470	CDD	cd00009	AAA	18	153	7.36713E-14	T	07-09-2022	-	-
+LOCUS_3250	0dfe9f13a212b0f3ab17bb7994e42586	470	Pfam	PF00004	ATPase family associated with various cellular activities (AAA)	44	144	6.9E-12	T	07-09-2022	IPR003959	ATPase, AAA-type, core
+LOCUS_3510	6ce807be0cb75e1c44b0ddc8039e0df8	246	MobiDBLite	mobidb-lite	consensus disorder prediction	1	29	-	T	07-09-2022	-	-
+LOCUS_3510	6ce807be0cb75e1c44b0ddc8039e0df8	246	MobiDBLite	mobidb-lite	consensus disorder prediction	1	15	-	T	07-09-2022	-	-
+LOCUS_3680	766249bf83f31549f4b37a62666f8676	178	Coils	Coil	Coil	151	171	-	T	07-09-2022	-	-
+LOCUS_0090	93ab3d6daffb555f0efad7dba2df704d	170	MobiDBLite	mobidb-lite	consensus disorder prediction	150	170	-	T	07-09-2022	-	-
+LOCUS_0090	93ab3d6daffb555f0efad7dba2df704d	170	MobiDBLite	mobidb-lite	consensus disorder prediction	1	39	-	T	07-09-2022	-	-
+LOCUS_0760	cd92885ebdb07f4755cdf38531551be8	645	CDD	cd00009	AAA	218	305	8.50158E-7	T	07-09-2022	-	-
+LOCUS_0760	cd92885ebdb07f4755cdf38531551be8	645	SMART	SM00382	AAA_5	46	310	8.6E-7	T	07-09-2022	IPR003593	AAA+ ATPase domain
+LOCUS_0760	cd92885ebdb07f4755cdf38531551be8	645	CDD	cd00009	AAA	31	115	1.25642E-8	T	07-09-2022	-	-
+LOCUS_4080	b7467b11c1bf657c87b52377e14c37aa	266	Coils	Coil	Coil	58	78	-	T	07-09-2022	-	-
+LOCUS_0180	8789ca3f9a2fb8c389bf75fa23df739d	415	Coils	Coil	Coil	70	90	-	T	07-09-2022	-	-
+LOCUS_0930	c5efb7ad068a232fc0e4dea4a8e0120e	369	Coils	Coil	Coil	84	104	-	T	07-09-2022	-	-
+LOCUS_0570	9876ecb8fec3852db95695490b333074	372	CDD	cd00009	AAA	36	167	7.28729E-15	T	07-09-2022	-	-
+LOCUS_0570	9876ecb8fec3852db95695490b333074	372	Pfam	PF00004	ATPase family associated with various cellular activities (AAA)	36	165	5.2E-7	T	07-09-2022	IPR003959	ATPase, AAA-type, core
+LOCUS_0570	9876ecb8fec3852db95695490b333074	372	SMART	SM00382	AAA_5	32	176	5.0E-4	T	07-09-2022	IPR003593	AAA+ ATPase domain
+LOCUS_3130	3697669e14c862b6a7e5005ed8699286	208	Coils	Coil	Coil	188	208	-	T	07-09-2022	-	-
+LOCUS_2870	85c7d65488d3aa0bf9a1f00d26f126cf	588	Coils	Coil	Coil	215	235	-	T	07-09-2022	-	-
+LOCUS_0620	1c3b8f5f41056538cd033405e9443f41	405	SMART	SM00382	AAA_5	179	371	1.8E-5	T	07-09-2022	IPR003593	AAA+ ATPase domain
+LOCUS_1480	8fc7c984799a9c524f69a7b586c3e125	482	Coils	Coil	Coil	460	480	-	T	07-09-2022	-	-
+LOCUS_0260	7c4618ee565d429c7d88107765903cd3	317	CDD	cd00009	AAA	20	153	7.99014E-24	T	07-09-2022	-	-
+LOCUS_0260	7c4618ee565d429c7d88107765903cd3	317	Pfam	PF00004	ATPase family associated with various cellular activities (AAA)	41	156	2.8E-13	T	07-09-2022	IPR003959	ATPase, AAA-type, core
+LOCUS_0260	7c4618ee565d429c7d88107765903cd3	317	SMART	SM00382	AAA_5	37	163	4.6E-8	T	07-09-2022	IPR003593	AAA+ ATPase domain
+LOCUS_2500	becd9638ffaa251beba3a33e34b29326	331	MobiDBLite	mobidb-lite	consensus disorder prediction	309	331	-	T	07-09-2022	-	-
+LOCUS_2500	becd9638ffaa251beba3a33e34b29326	331	MobiDBLite	mobidb-lite	consensus disorder prediction	315	331	-	T	07-09-2022	-	-
+LOCUS_0110	a1e6bcf507bd34f1bf0919698a657a4b	158	MobiDBLite	mobidb-lite	consensus disorder prediction	131	158	-	T	07-09-2022	-	-
+LOCUS_4310	1ef2e7b8029998bb9922bac8570e5bad	57	MobiDBLite	mobidb-lite	consensus disorder prediction	1	57	-	T	07-09-2022	-	-
+LOCUS_1350	3eb32e6328ecf78211041450f4da564a	183	Pfam	PF00004	ATPase family associated with various cellular activities (AAA)	8	114	6.2E-7	T	07-09-2022	IPR003959	ATPase, AAA-type, core
+LOCUS_0170	84925b18cc782aa9278636d4bc7452d1	677	Coils	Coil	Coil	677	677	-	T	07-09-2022	-	-
+LOCUS_2330	35ed299cccb21223bbeabc244678c110	137	MobiDBLite	mobidb-lite	consensus disorder prediction	118	137	-	T	07-09-2022	-	-
+LOCUS_0100	5d01373a46503f12f83166d2d8ffbf71	191	MobiDBLite	mobidb-lite	consensus disorder prediction	160	191	-	T	07-09-2022	-	-
+LOCUS_0100	5d01373a46503f12f83166d2d8ffbf71	191	MobiDBLite	mobidb-lite	consensus disorder prediction	160	174	-	T	07-09-2022	-	-
+LOCUS_4590	aeec2d25f0f728205ba084f1a1461c83	94	MobiDBLite	mobidb-lite	consensus disorder prediction	12	26	-	T	07-09-2022	-	-
+LOCUS_4590	aeec2d25f0f728205ba084f1a1461c83	94	MobiDBLite	mobidb-lite	consensus disorder prediction	1	27	-	T	07-09-2022	-	-
+LOCUS_3620	815e991484b5ef18c4ffaf78ba32109d	230	Coils	Coil	Coil	184	204	-	T	07-09-2022	-	-
+LOCUS_1220	9e52de35b75d75ae4ef0c838c56d811f	245	MobiDBLite	mobidb-lite	consensus disorder prediction	218	245	-	T	07-09-2022	-	-
+LOCUS_0320	2e15e120a22315d2ab87afffb098500b	550	Coils	Coil	Coil	179	199	-	T	07-09-2022	-	-
+LOCUS_2720	930e5a98b16f1d5a2c3328d5f58517b6	187	Coils	Coil	Coil	179	187	-	T	07-09-2022	-	-
+LOCUS_3410	89e9352d1e787dc0cbd4603342e24cff	263	Coils	Coil	Coil	40	60	-	T	07-09-2022	-	-
+LOCUS_3410	89e9352d1e787dc0cbd4603342e24cff	263	Coils	Coil	Coil	197	217	-	T	07-09-2022	-	-
+LOCUS_0390	14d6dd75600fa824fc8936392cf89311	137	MobiDBLite	mobidb-lite	consensus disorder prediction	76	98	-	T	07-09-2022	-	-
+LOCUS_1930	cac02357a6fb584bb3d62e33fc2f7251	138	Coils	Coil	Coil	47	67	-	T	07-09-2022	-	-
+LOCUS_4410	39387b78ca1132b49451452a1e00a671	79	Coils	Coil	Coil	29	67	-	T	07-09-2022	-	-
+LOCUS_4810	640318f950a88625ad404eaed22d612d	215	Coils	Coil	Coil	154	174	-	T	07-09-2022	-	-
+LOCUS_4810	640318f950a88625ad404eaed22d612d	215	Coils	Coil	Coil	16	36	-	T	07-09-2022	-	-
+LOCUS_2190	d4283b2fa0673e314161a21bd1351815	219	MobiDBLite	mobidb-lite	consensus disorder prediction	188	219	-	T	07-09-2022	-	-
+LOCUS_2640	ec05ca5ffd09254ec337825a54c0edc4	149	Coils	Coil	Coil	115	142	-	T	07-09-2022	-	-
+LOCUS_2640	ec05ca5ffd09254ec337825a54c0edc4	149	MobiDBLite	mobidb-lite	consensus disorder prediction	125	149	-	T	07-09-2022	-	-
+LOCUS_3720	df7f60e8c7843cd5477f109babc8cf5c	128	MobiDBLite	mobidb-lite	consensus disorder prediction	109	128	-	T	07-09-2022	-	-
+LOCUS_0710	2e7332f59168e4c5b893ef453ae8e74c	333	Coils	Coil	Coil	44	71	-	T	07-09-2022	-	-
+LOCUS_0840	240885e4e7a4a3113ff0fb11359a0442	381	Coils	Coil	Coil	323	343	-	T	07-09-2022	-	-
+LOCUS_1570	6bc53aa4e4f49ffa7179115dd024b8fe	151	MobiDBLite	mobidb-lite	consensus disorder prediction	1	21	-	T	07-09-2022	-	-
+LOCUS_1950	65853b7d068d66ee02c491532b958aa8	655	Coils	Coil	Coil	71	98	-	T	07-09-2022	-	-
+LOCUS_1950	65853b7d068d66ee02c491532b958aa8	655	Coils	Coil	Coil	114	134	-	T	07-09-2022	-	-
+LOCUS_4540	f0f40b6dc19903b3091fe8b440fd0971	90	Coils	Coil	Coil	67	87	-	T	07-09-2022	-	-
+LOCUS_0720	d58ee212c7e8f60f6265aefe4b1973be	787	Coils	Coil	Coil	556	576	-	T	07-09-2022	-	-
+LOCUS_0720	d58ee212c7e8f60f6265aefe4b1973be	787	Coils	Coil	Coil	483	510	-	T	07-09-2022	-	-
+LOCUS_3430	86646944eeba5856af9ba957b39cd023	224	Coils	Coil	Coil	26	46	-	T	07-09-2022	-	-
+LOCUS_3430	86646944eeba5856af9ba957b39cd023	224	MobiDBLite	mobidb-lite	consensus disorder prediction	197	224	-	T	07-09-2022	-	-
+LOCUS_3430	86646944eeba5856af9ba957b39cd023	224	Coils	Coil	Coil	186	219	-	T	07-09-2022	-	-
+LOCUS_3430	86646944eeba5856af9ba957b39cd023	224	MobiDBLite	mobidb-lite	consensus disorder prediction	179	224	-	T	07-09-2022	-	-
+LOCUS_3430	86646944eeba5856af9ba957b39cd023	224	MobiDBLite	mobidb-lite	consensus disorder prediction	181	196	-	T	07-09-2022	-	-
+LOCUS_2120	624663a990734cc669ff7462e13a1ec8	112	Coils	Coil	Coil	7	51	-	T	07-09-2022	-	-
+LOCUS_2120	624663a990734cc669ff7462e13a1ec8	112	Coils	Coil	Coil	64	98	-	T	07-09-2022	-	-
+LOCUS_1360	f9cde65d6407cbae67b6776196b2d541	85	MobiDBLite	mobidb-lite	consensus disorder prediction	52	67	-	T	07-09-2022	-	-
+LOCUS_1360	f9cde65d6407cbae67b6776196b2d541	85	MobiDBLite	mobidb-lite	consensus disorder prediction	49	69	-	T	07-09-2022	-	-
+LOCUS_0560	707a6ec887a1b84ab377096ca014f225	399	Coils	Coil	Coil	316	336	-	T	07-09-2022	-	-
+LOCUS_3150	ae383b40f3bc54f15fb4e5eee4f4304d	118	Coils	Coil	Coil	86	110	-	T	07-09-2022	-	-
+LOCUS_1280	e45f9d6fcf3d4b7d6fb315e5f98b6f6c	480	MobiDBLite	mobidb-lite	consensus disorder prediction	1	29	-	T	07-09-2022	-	-
+LOCUS_1280	e45f9d6fcf3d4b7d6fb315e5f98b6f6c	480	MobiDBLite	mobidb-lite	consensus disorder prediction	1	43	-	T	07-09-2022	-	-
+LOCUS_3360	a2a3109c82a1e646e3718ffeeddc79c6	101	MobiDBLite	mobidb-lite	consensus disorder prediction	20	54	-	T	07-09-2022	-	-
+LOCUS_3360	a2a3109c82a1e646e3718ffeeddc79c6	101	MobiDBLite	mobidb-lite	consensus disorder prediction	36	52	-	T	07-09-2022	-	-
+LOCUS_2690	fde1af97e3656dad495904855d4d53a6	395	CDD	cd00009	AAA	58	205	4.70337E-11	T	07-09-2022	-	-
+LOCUS_2690	fde1af97e3656dad495904855d4d53a6	395	SMART	SM00382	AAA_5	55	190	5.3E-6	T	07-09-2022	IPR003593	AAA+ ATPase domain
+LOCUS_2690	fde1af97e3656dad495904855d4d53a6	395	Pfam	PF00004	ATPase family associated with various cellular activities (AAA)	60	157	1.0E-5	T	07-09-2022	IPR003959	ATPase, AAA-type, core
+LOCUS_1230	442326e4d13f8d002a526cf75fddd8c3	267	SMART	SM00382	AAA_5	51	239	2.5E-13	T	07-09-2022	IPR003593	AAA+ ATPase domain
+LOCUS_1230	442326e4d13f8d002a526cf75fddd8c3	267	MobiDBLite	mobidb-lite	consensus disorder prediction	244	267	-	T	07-09-2022	-	-
+LOCUS_1370	a5c6abbf247fc5edf40eda6cbcbb5e40	228	Coils	Coil	Coil	57	77	-	T	07-09-2022	-	-
+LOCUS_0400	eb34f21feeca6603f87643532b7c6f4b	117	MobiDBLite	mobidb-lite	consensus disorder prediction	1	37	-	T	07-09-2022	-	-
+LOCUS_0400	eb34f21feeca6603f87643532b7c6f4b	117	MobiDBLite	mobidb-lite	consensus disorder prediction	1	17	-	T	07-09-2022	-	-
+LOCUS_0400	eb34f21feeca6603f87643532b7c6f4b	117	Coils	Coil	Coil	30	50	-	T	07-09-2022	-	-
+LOCUS_0160	b855ee24ad913ac18f1aa6f167f8eeb3	848	Coils	Coil	Coil	848	848	-	T	07-09-2022	-	-
+LOCUS_1000	874aaf8bc7551b4b851b0613226ba3a3	409	Coils	Coil	Coil	152	172	-	T	07-09-2022	-	-
+LOCUS_2220	a54867b75b09bffbd90f937a0ebcfafd	282	MobiDBLite	mobidb-lite	consensus disorder prediction	225	248	-	T	07-09-2022	-	-
+LOCUS_2220	a54867b75b09bffbd90f937a0ebcfafd	282	Coils	Coil	Coil	113	153	-	T	07-09-2022	-	-
+LOCUS_2220	a54867b75b09bffbd90f937a0ebcfafd	282	Coils	Coil	Coil	5	59	-	T	07-09-2022	-	-
+LOCUS_2220	a54867b75b09bffbd90f937a0ebcfafd	282	MobiDBLite	mobidb-lite	consensus disorder prediction	1	33	-	T	07-09-2022	-	-
+LOCUS_2220	a54867b75b09bffbd90f937a0ebcfafd	282	Coils	Coil	Coil	226	257	-	T	07-09-2022	-	-
+LOCUS_2220	a54867b75b09bffbd90f937a0ebcfafd	282	Coils	Coil	Coil	196	223	-	T	07-09-2022	-	-
+LOCUS_0820	ddfc50dea674e5791df71734f650aef1	607	Coils	Coil	Coil	492	512	-	T	07-09-2022	-	-
+LOCUS_3930	afb1c802e64153f27208c1e68634589b	258	Coils	Coil	Coil	219	253	-	T	07-09-2022	-	-
+LOCUS_1660	3f834dd0c19eeb4e4c32520ec022bad5	369	MobiDBLite	mobidb-lite	consensus disorder prediction	1	34	-	T	07-09-2022	-	-
+LOCUS_1660	3f834dd0c19eeb4e4c32520ec022bad5	369	Coils	Coil	Coil	1	41	-	T	07-09-2022	-	-
+LOCUS_0970	5b1b71ef1e4a54aa92b388d44d443550	695	Coils	Coil	Coil	629	649	-	T	07-09-2022	-	-
+LOCUS_0970	5b1b71ef1e4a54aa92b388d44d443550	695	Coils	Coil	Coil	21	41	-	T	07-09-2022	-	-
+LOCUS_0420	0b29deaee2f438aa0997ff5167b52a20	125	MobiDBLite	mobidb-lite	consensus disorder prediction	108	125	-	T	07-09-2022	-	-
+LOCUS_0420	0b29deaee2f438aa0997ff5167b52a20	125	MobiDBLite	mobidb-lite	consensus disorder prediction	104	125	-	T	07-09-2022	-	-
+LOCUS_2580	4c000ee83dd9d4fdcfbf5c98acaa717e	282	Coils	Coil	Coil	188	208	-	T	07-09-2022	-	-
+LOCUS_3850	aa6302daeae09377359b1c81326f2b10	298	MobiDBLite	mobidb-lite	consensus disorder prediction	1	21	-	T	07-09-2022	-	-
+LOCUS_2310	8c04034ee9bda7c12247d173d9eb4dcd	157	MobiDBLite	mobidb-lite	consensus disorder prediction	57	94	-	T	07-09-2022	-	-
+LOCUS_2310	8c04034ee9bda7c12247d173d9eb4dcd	157	Coils	Coil	Coil	138	157	-	T	07-09-2022	-	-
+LOCUS_2310	8c04034ee9bda7c12247d173d9eb4dcd	157	MobiDBLite	mobidb-lite	consensus disorder prediction	55	94	-	T	07-09-2022	-	-
