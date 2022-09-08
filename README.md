@@ -7,6 +7,9 @@ InterProScanをスパコンで実行
 #$ -cwd
 singularity exec /usr/local/biotools/i/interproscan\:5.55_88.0--hec16e2b_1 interproscan.sh -i /home/hoge/Inter/protein.faa -b /home/hoge/Inter/
 ```
+コンテナ内に参照データが同梱されてないので上記のやり方では駄目。<br>
+参照DBのディレクトリをコンテナにバインドする必要がある点に注意<br>
+
 InterProScanの結果からGO組成に変換
 ```
 perl ./InterPro2GOTransfer.pl protein.faa.tsv interpro2go
