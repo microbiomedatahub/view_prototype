@@ -1,0 +1,132 @@
+[
+  {
+    "identifier": "PRJDB11811",
+    "title": "TPA_asm: The OceanDNA MAG catalog: 52,325 prokaryotic genomes reconstructed from various marine environments",
+    "description": "Reconstruction of 52,325 qualified genomes composed of 8,466 prokaryotic species-level clusters spanning 59 phyla, including genomes from deep-sea deeper than 1,000 m (n=3,337), low-oxygen zones of <90 micro mol O2 per kg water (n=7,884), and polar regions (n=7,752). All genomes are QS >= 50.",
+    "name": null,
+    "type": "bioproject",
+    "url": "https://ddbj.nig.ac.jp/resource/bioproject/PRJDB11811",
+    "sameAs": null,
+    "isPartOf": "bioproject",
+    "organism": {
+      "name": "marine metagenome",
+      "identifier": 408172
+    },
+    "dbXrefsStatistics": [
+      {
+        "type": "sra-run",
+        "count": 9
+      },
+      {
+        "type": "sra-submission",
+        "count": 9
+      },
+      {
+        "type": "sra-analysis",
+        "count": 43859
+      },
+      {
+        "type": "biosample",
+        "count": 9
+      },
+      {
+        "type": "sra-study",
+        "count": 1
+      },
+      {
+        "type": "sra-sample",
+        "count": 9
+      },
+      {
+        "type": "sra-experiment",
+        "count": 9
+      }
+    ],
+    "properties": {
+      "Project": {
+        "Project": {
+          "ProjectID": {
+            "ArchiveID": [
+              {
+                "accession": "PRJDB11811",
+                "archive": "DDBJ"
+              }
+            ]
+          },
+          "ProjectDescr": {
+            "Title": "TPA_asm: The OceanDNA MAG catalog: 52,325 prokaryotic genomes reconstructed from various marine environments",
+            "Description": "Reconstruction of 52,325 qualified genomes composed of 8,466 prokaryotic species-level clusters spanning 59 phyla, including genomes from deep-sea deeper than 1,000 m (n=3,337), low-oxygen zones of <90 micro mol O2 per kg water (n=7,884), and polar regions (n=7,752). All genomes are QS >= 50.",
+            "ProjectReleaseDate": "2022-04-07T05:46:34.34Z",
+            "Relevance": {
+              "Environmental": "yes"
+            },
+            "UserTerm": [
+              {
+                "term": "keyword",
+                "content": "TPA_assembly"
+              }
+            ]
+          },
+          "ProjectType": {
+            "ProjectTypeSubmission": {
+              "Target": {
+                "sample_scope": "eEnvironment",
+                "material": "eGenome",
+                "capture": "eWhole",
+                "Organism": {
+                  "taxID": 408172,
+                  "OrganismName": "marine metagenome"
+                }
+              },
+              "Method": {
+                "method_type": "eSequencing"
+              },
+              "Objectives": {
+                "Data": [
+                  {
+                    "data_type": "eSequence"
+                  },
+                  {
+                    "data_type": "eAssembly"
+                  }
+                ]
+              },
+              "ProjectDataTypeSet": {
+                "DataType": [
+                  "Genome Sequencing",
+                  "Metagenome"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "search": "{\n  \"Project\" : {\n    \"Project\" : {\n      \"ProjectID\" : {\n        \"ArchiveID\" : [ {\n          \"accession\" : \"PRJDB11811\",\n          \"archive\" : \"DDBJ\"\n        } ]\n      },\n      \"ProjectDescr\" : {\n        \"Title\" : \"TPA_asm: The OceanDNA MAG catalog: 52,325 prokaryotic genomes reconstructed from various marine environments\",\n        \"Description\" : \"Reconstruction of 52,325 qualified genomes composed of 8,466 prokaryotic species-level clusters spanning 59 phyla, including genomes from deep-sea deeper than 1,000 m (n=3,337), low-oxygen zones of <90 micro mol O2 per kg water (n=7,884), and polar regions (n=7,752). All genomes are QS >= 50.\",\n        \"ProjectReleaseDate\" : \"2022-04-07T05:46:34.34Z\",\n        \"Relevance\" : {\n          \"Environmental\" : \"yes\"\n        },\n        \"UserTerm\" : [ {\n          \"term\" : \"keyword\",\n          \"content\" : \"TPA_assembly\"\n        } ]\n      },\n      \"ProjectType\" : {\n        \"ProjectTypeSubmission\" : {\n          \"Target\" : {\n            \"sample_scope\" : \"eEnvironment\",\n            \"material\" : \"eGenome\",\n            \"capture\" : \"eWhole\",\n            \"Organism\" : {\n              \"taxID\" : 408172,\n              \"OrganismName\" : \"marine metagenome\"\n            }\n          },\n          \"Method\" : {\n            \"method_type\" : \"eSequencing\"\n          },\n          \"Objectives\" : {\n            \"Data\" : [ {\n              \"data_type\" : \"eSequence\"\n            }, {\n              \"data_type\" : \"eAssembly\"\n            } ]\n          },\n          \"ProjectDataTypeSet\" : {\n            \"DataType\" : [ \"Genome Sequencing\", \"Metagenome\" ]\n          }\n        }\n      }\n    }\n  }\n}",
+    "distribution": [
+      {
+        "type": "DataDownload",
+        "encodingFormat": "JSON",
+        "contentUrl": "https://ddbj.nig.ac.jp/resource/bioproject/PRJDB11811.json"
+      },
+      {
+        "type": "DataDownload",
+        "encodingFormat": "JSON-LD",
+        "contentUrl": "https://ddbj.nig.ac.jp/resource/bioproject/PRJDB11811.jsonld"
+      }
+    ],
+    "downloadUrl": [
+      {
+        "type": "meta",
+        "name": "ddbj_core_bioproject.xml",
+        "url": "https://ddbj.nig.ac.jp/public/ddbj_database/bioproject/ddbj_core_bioproject.xml",
+        "ftpUrl": "ftp://ftp.ddbj.nig.ac.jp/ddbj_database/bioproject/ddbj_core_bioproject.xml"
+      }
+    ],
+    "status": "public",
+    "visibility": "unrestricted-access",
+    "dateCreated": "2021-06-08T02:42:46+0000",
+    "dateModified": "2022-04-07T05:46:34+0000",
+    "datePublished": "2022-04-07T05:46:34+0000"
+  }
+]
