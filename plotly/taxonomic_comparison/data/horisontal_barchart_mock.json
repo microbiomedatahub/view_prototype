@@ -1,0 +1,16 @@
+{
+    "data" [{
+        "type": "bar",
+        "x": [7, 9, 10, 14, 20, 23, 30, 33, 40, 42, 43, 43, 44, 45, 48, 50, 55, 59, 60, 65],
+        "y": ["giraffes 1", "orangutans 1", "monkeys 1",
+            "giraffes 2", "orangutans 2", "monkeys 2",
+            "giraffes 3", "orangutans 3", "monkeys 3",
+            "giraffes 4", "orangutans 4", "monkeys 4",
+            "giraffes 5", "orangutans 5", "monkeys 5",
+        ],
+        "orientation": "h",  
+        "marker": {
+            "color": c20b
+            }
+        }];
+}
