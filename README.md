@@ -19,3 +19,13 @@ GO組成から[メタゲノムGO Slim](http://geneontology.org/docs/download-ont
 ```
 perl ./GOSlimMeta.pl protein.faa.tsv.go.tsv goslim_metagenomics.obo
 ```
+
+## 国（プロジェクト）毎の系統組成データ書き出し
+
+MDB4の系統組成データを収めたディレクトリを指定し、プロジェクトごとplotlyのstacked chart用のJSONを書き出します。
+プロジェクトに含まれるrunをBioSampleに変換して表示するため、このスクリプトをそのまま使う場合run2biosampleの辞書が必要です。
+
+```
+cd plotly/taxonomic_comparison
+python tsv2plotly_json.py 
+```
