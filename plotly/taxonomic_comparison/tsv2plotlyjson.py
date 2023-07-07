@@ -30,7 +30,6 @@ def get_file_names(input_path) -> list:
     Returns:
         list: ディレクトリに含まれる全tsvファイルのリスト
     """
-    print("input_path: ", input_path)
     file_names = glob.glob(input_path + '/*.txt')
     return file_names
 
@@ -50,20 +49,16 @@ def create_df(file_name: list) -> pd.DataFrame:
     # カラム名はrun idから変換したbiosample id# カラム名はrun idから変換したbiosample id
     # 重複を考慮しprefix追加する
     biosample_ids = togoid_run2biosample.run_biosample(run_ids)
-    print("biosample_ids: ", biosample_ids)
-
 
     df_lst = []
     df = {}
     # 最初のプロジェクトのみとりあえず書き出す（後で全件に修正する）
     for i,d in enumerate(file_name):
-        print("i,d: ", i, d)
-        
         # ファイルをdfに読み込む・BioSampleを組成の列のカラム名にする
         # クラスは現状genus固定
-        print("file_path: ", f"{input_path}/{d}")
-        print("sample_name: ", d.split('.')[0])
-        df[i] = pd.read_table(f"{input_path}/{d}", names=['genus',d.split('.')[0]])
+        run_id = d.split('_')[0]
+        bs = biosample_ids[run_id]
+        df[i] = pd.read_table(f"{input_path}/{d}", names=['genus',bs])
         # インデックス設定
         df[i] = df[i].set_index('genus', drop=True)
 
@@ -73,7 +68,6 @@ def create_df(file_name: list) -> pd.DataFrame:
         df[i] = df[i].div(df[i].sum(axis=1), axis=0).mul(100)
         df_lst.append(df[i])
 
-    print("df_lst: ",df_lst)
     # 全サンプルをデータフレームに行方向にconcat。NaNが挿入されるので0で埋める
     df_all = pd.concat(df_lst, axis=0)
     df_all.fillna(0, inplace=True)
@@ -153,15 +147,11 @@ def main() -> None:
     run_bp_list = togoid_run2bioproject.run_bioproject(run_list)
     # bioprojectでrun idをグループ化
     bp_nested_list = togoid_run2bioproject.convert_nested_bioproject_list(run_bp_list)
-    print("bp_nested_list: ", bp_nested_list)
     # bioproject毎に組成データを読み込む（ネストしたそれぞれのリスト（run）に先頭の文字列が一致するファイルリストを作りファイルを読み込む）
     for k, v in bp_nested_list.items():
-        print("k,v: ", k, v)
         # k: bioproject, v: run_id list
         # run idでfile_namesをフィルタリング（先頭の文字列がrun_id listに含まれるファイル名を取得）
-        print("file_names: ", file_names)
         filtered_file_names = [f for f in file_names if f.startswith(tuple(v))]
-        print("filtered_file_names: ", filtered_file_names)
         # plotlyjsonを生成しファイル出力（BioProjectをファイル名にしてディレクトリを作りディレクトリに設置）
         create_plot_json(k, filtered_file_names)
 

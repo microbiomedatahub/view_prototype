@@ -22,7 +22,7 @@ def run_biosample(run: list) -> dict:
     # add_sufixを呼び出し、同一のBioSample IDを含む場合、suffixを付与する
     run_bs_dict = add_sufix(run_bs['results'])
     # Todo: データ形式をDFのカラム名様最適化する
-    return run_bs_dict
+    return dict(run_bs_dict)
 
 
 def add_sufix(run_bs: list) -> list:
@@ -55,4 +55,3 @@ def add_sufix(run_bs: list) -> list:
 if __name__ == "__main__":
     d = run_biosample(['SRR2198979', 'SRR2198982', 'SRR2199220', 'SRR2223198', 'SRR2223207', 'SRR2223229', 'SRR2223242', 'SRR2223418',
                        'SRR2223495', 'SRR2223515','SRR2226375'])
-    print("run_bs: ", d)
