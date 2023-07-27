@@ -52,14 +52,14 @@ def create_df(file_name: list) -> pd.DataFrame:
 
     df_lst = []
     df = {}
-    # 最初のプロジェクトのみとりあえず書き出す（後で全件に修正する）
     for i,d in enumerate(file_name):
         # ファイルをdfに読み込む・BioSampleを組成の列のカラム名にする
         # クラスは現状genus固定
         run_id = d.split('_')[0]
         bs = biosample_ids[run_id]
+        # あるrunについての組成データをデータフレームに読み込む。生のリードの値にtaxonomyが絡む名となっている
         df[i] = pd.read_table(f"{input_path}/{d}", names=['genus',bs])
-        # インデックス設定
+        # rank名をインデックスに設定
         df[i] = df[i].set_index('genus', drop=True)
 
         # 天地
